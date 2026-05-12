@@ -9,6 +9,6 @@ Quick-Commerce Analytics Project using SQL, Python, Tableau on  100k+ ecommerce 
 - GPT-4 / LLM-assisted classification
 - Jupyter Notebook
 
-#Dataset: 
+# Dataset: 
 - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
