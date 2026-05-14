@@ -1,0 +1,7 @@
+delay_bucket,order_count,avg_score,pct_negative,avg_delay_days
+On time / Early,89941,4.29,9.2,-13.511501984634371
+1-3 days late,1870,3.29,31.8,1.8262032085561497
+4-7 days late,1802,2.11,65.5,5.517203107658157
+8-14 days late,1479,1.67,78.4,10.592292089249494
+15+ days late,1384,1.72,75.7,29.177023121387283
+Unknown,2965,1.75,74.7,
