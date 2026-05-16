@@ -13,3 +13,6 @@ Quick-Commerce Analytics Project using SQL, Python, Tableau on  100k+ ecommerce 
 # Dataset: 
 - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+#Dashboard
+- [Tableau](https://public.tableau.com/shared/CH3MBX9C8?:display_count=n&:origin=viz_share_link)
+
